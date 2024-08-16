@@ -42,13 +42,6 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
-		<!-- Lombok for reducing boilerplate code (optional) -->
-		<dependency>
-			<groupId>org.projectlombok</groupId>
-			<artifactId>lombok</artifactId>
-			<optional>true</optional>
-		</dependency>
-
 		<!-- Spring Boot Starter Test for testing purposes -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
